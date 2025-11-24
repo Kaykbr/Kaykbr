@@ -20,6 +20,8 @@ Sou desenvolvedor apaixonado por Inteligência Artificial e Machine Learning, e 
 
 📈 Desenvolvendo conhecimento e projetos como agentes inteligentes, soluções de IA, chatbots.
 
+🎨 Tenho conhecimentos em ferramentas de IA para edição e criação. Tenho interesse em atuar com **Consultoria em IA**, além de projetos de **Audiovisual** e **Marketing Digital**.
+
 ❤️ Adoro trabalhar com Python e construir experimentos inovadores em IA
 
 💬 Pergunte-me sobre qualquer coisa aqui ou conecte-se!
